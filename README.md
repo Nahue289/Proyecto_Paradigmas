@@ -1,2 +1,2 @@
 # Proyecto_Paradigmas
-Tu señora 
+nose
