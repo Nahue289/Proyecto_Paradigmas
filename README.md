@@ -1,2 +1,3 @@
 # Proyecto_Paradigmas
-nose
+Me gusta nahue
+             -Koto <3
